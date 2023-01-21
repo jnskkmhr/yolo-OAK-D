@@ -8,5 +8,5 @@
 * Clone this [repo](https://github.com/luxonis/depthai-experiments/tree/master/gen2-yolo/device-decoding)
 * install dependencies in `depthai-experimentals/gen2-yolo/device-decoding/requirements.txt`
 * move extracted `.blob` and `.json` to directory `depthai-experiments/gen2-yolo/device-decoding/`
-* Run `python3 main.py -m /path/to/blob -c /path/to/json`
+* Run `python3 main_api.py -m /path/to/blob -c /path/to/json`
 
